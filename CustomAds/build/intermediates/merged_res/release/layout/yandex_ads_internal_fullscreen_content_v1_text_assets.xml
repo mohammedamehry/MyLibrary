@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yandex.mobile.ads.common.AdActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/yandex_ads_internal_fullscreen_content_v1_offset"
+        android:layout_marginRight="@dimen/yandex_ads_internal_fullscreen_content_v1_offset"
+        android:ellipsize="end"
+        android:lineSpacingExtra="2sp"
+        android:maxLines="3"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        app:yandex_measure_priority="@integer/yandex_instream_internal_fullscreen_content_v1_measure_priority_title"
+        tools:background="@android:color/black"
+        tools:text="@string/yandex_ads_internal_tools_title_text"
+        tools:visibility="visible" />
+
+    <com.yandex.mobile.ads.fullscreen.template.view.CroppedTextView
+        android:id="@+id/body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/yandex_ads_internal_fullscreen_content_v1_offset"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="@dimen/yandex_ads_internal_fullscreen_content_v1_offset"
+        android:layout_marginBottom="12dp"
+        android:ellipsize="end"
+        android:lineSpacingExtra="4sp"
+        android:maxLines="4"
+        android:textColor="#CCFFFFFF"
+        android:textSize="20sp"
+        android:visibility="gone"
+        app:yandex_measure_priority="@integer/yandex_instream_internal_fullscreen_content_v1_measure_priority_body"
+        tools:background="@android:color/black"
+        tools:text="@string/yandex_ads_internal_tools_body_text"
+        tools:visibility="visible" />
+
+</merge>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<LinearLayout android:id="@+id/rating_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_marginRight="16dp">
+
+    <com.yandex.mobile.ads.fullscreen.template.view.ColorizedRatingView
+        android:id="@+id/rating"
+        style="@style/YandexAdsInternal.RatingBar.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="8dp"
+        android:numStars="@integer/yandex_ads_internal_rating_num_stars"
+        android:stepSize="@dimen/yandex_ads_internal_rating_step_size"
+        tools:rating="@dimen/yandex_ads_internal_rating_tools_value" />
+
+    <TextView
+        android:id="@+id/rating_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        tools:text="3.5" />
+
+</LinearLayout>

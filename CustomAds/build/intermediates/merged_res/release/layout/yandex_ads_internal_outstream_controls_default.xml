@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<com.yandex.mobile.ads.nativeads.video.view.PlaybackControlsContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_height="400dp">
+
+    <CheckBox
+        android:id="@+id/video_mute_control"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:button="@drawable/yandex_ads_internal_mute_checkable_default"
+        android:layout_gravity="bottom|left"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp" />
+
+    <ProgressBar
+        android:id="@+id/video_progress_control"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_gravity="bottom"
+        android:progressDrawable="@drawable/yandex_instream_internal_progress_display"
+        tools:progress="50"
+        tools:max="100" />
+
+</com.yandex.mobile.ads.nativeads.video.view.PlaybackControlsContainer>

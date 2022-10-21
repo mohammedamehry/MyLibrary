@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="31"
+    android:viewportHeight="31"
+    android:width="29dp"
+    android:height="29dp">
+    <path
+        android:pathData="M15.5 0H15.5A15.5 15.5 0 0 1 31 15.5V15.5A15.5 15.5 0 0 1 15.5 31H15.5A15.5 15.5 0 0 1 0 15.5V15.5A15.5 15.5 0 0 1 15.5 0Z"
+        android:fillColor="#404040"
+        android:fillAlpha="0.5" />
+    <path
+        android:pathData="M17.5 7.5A2 2 0 0 1 13.5 7.5A2 2 0 0 1 17.5 7.5Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M17.5 15.5A2 2 0 0 1 13.5 15.5A2 2 0 0 1 17.5 15.5Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M17.5 23.5A2 2 0 0 1 13.5 23.5A2 2 0 0 1 17.5 23.5Z"
+        android:fillColor="#FFFFFF" />
+</vector>

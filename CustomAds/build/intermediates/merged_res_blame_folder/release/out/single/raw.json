@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/raw/bundled_cert.crt",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/raw/bundled_cert.crt"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/raw/omsdk_v_1_0.js",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/raw/omsdk_v_1_0.js"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/raw/yandexinternalca.crt",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/raw/yandexinternalca.crt"
+    }
+]

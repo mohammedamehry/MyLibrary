@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<com.yandex.mobile.ads.fullscreen.template.view.ExtraSpacingTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/warning"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/yandex_ads_internal_app_install_warning_margin_bottom"
+    android:ellipsize="marquee"
+    android:gravity="start"
+    android:marqueeRepeatLimit="marquee_forever"
+    android:maxHeight="@dimen/yandex_ads_internal_app_install_warning_height"
+    android:scrollHorizontally="true"
+    android:singleLine="true"
+    android:textColor="@color/yandex_ads_internal_grey_text_color"
+    android:textSize="@dimen/yandex_ads_internal_appinstall_warning_text_size"
+    android:visibility="gone"
+    tools:text="@string/yandex_ads_internal_tools_warning_text"
+    tools:visibility="visible"
+    tools:ignore="SpUsage" />

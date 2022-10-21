@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        maven {
+            url 'https://android-sdk.is.com/'
+        }
+        google()
+        mavenCentral()
+
+    }
+}
+rootProject.name = "Mehdi Library"
+include ':app'
+include ':CustomAds'

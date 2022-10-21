@@ -1,0 +1,693 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.challenge.spinbottle"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-67
+11-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-76
+12-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-73
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-79
+13-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-76
+14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+14-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-79
+14-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-76
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-75
+15-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:22-72
+16
+17    <queries>
+17-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:15:5-20:15
+18        <package android:name="com.android.vending" />
+18-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:16:9-55
+18-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:16:18-52
+19        <package android:name="com.amazon.venezia" />
+19-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:17:9-54
+19-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:17:18-51
+20        <package android:name="com.sec.android.app.samsungapps" />
+20-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:18:9-67
+20-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:18:18-64
+21        <package android:name="com.huawei.appmarket" />
+21-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:19:9-56
+21-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:19:18-53
+22
+23        <intent>
+23-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:12:9-14:18
+24            <action android:name="com.applovin.am.intent.action.APPHUB_SERVICE" />
+24-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:13:13-83
+24-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:13:21-80
+25        </intent> <!-- For browser content -->
+26        <intent>
+26-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:31:9-37:18
+27            <action android:name="android.intent.action.VIEW" />
+27-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:32:13-65
+27-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:32:21-62
+28
+29            <category android:name="android.intent.category.BROWSABLE" />
+29-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:34:13-74
+29-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:34:23-71
+30
+31            <data android:scheme="https" />
+31-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:36:13-44
+31-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:36:19-41
+32        </intent> <!-- End of browser content -->
+33        <!-- For CustomTabsService -->
+34        <intent>
+34-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:40:9-42:18
+35            <action android:name="android.support.customtabs.action.CustomTabsService" />
+35-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:41:13-90
+35-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:41:21-87
+36        </intent>
+37
+38        <package android:name="com.facebook.katana" />
+38-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:12:9-55
+38-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:12:18-52
+39    </queries>
+40
+41    <uses-permission android:name="android.permission.WAKE_LOCK" />
+41-->[com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/unity/.gradle/caches/transforms-3/e0b66cf869801196e6ad06eb75e01259/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+41-->[com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/unity/.gradle/caches/transforms-3/e0b66cf869801196e6ad06eb75e01259/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:22-65
+42    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+42-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:27:5-81
+42-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:27:22-78
+43    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+43-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:5-77
+43-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:22-74
+44
+45    <permission
+45-->[androidx.core:core:1.9.0] /Users/unity/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+46        android:name="com.challenge.spinbottle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+46-->[androidx.core:core:1.9.0] /Users/unity/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+47        android:protectionLevel="signature" />
+47-->[androidx.core:core:1.9.0] /Users/unity/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+48
+49    <uses-permission android:name="com.challenge.spinbottle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+49-->[androidx.core:core:1.9.0] /Users/unity/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+49-->[androidx.core:core:1.9.0] /Users/unity/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+50
+51    <application
+51-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:6:5-32:19
+52        android:allowBackup="true"
+52-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:7:9-35
+53        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+53-->[androidx.core:core:1.9.0] /Users/unity/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+54        android:dataExtractionRules="@xml/data_extraction_rules"
+54-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:8:9-65
+55        android:debuggable="true"
+56        android:extractNativeLibs="false"
+57        android:fullBackupContent="@xml/backup_rules"
+57-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:9:9-54
+58        android:hardwareAccelerated="true"
+58-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:17:9-43
+59        android:icon="@mipmap/ic_launcher"
+59-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:10:9-43
+60        android:label="@string/app_name"
+60-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:11:9-41
+61        android:roundIcon="@mipmap/ic_launcher_round"
+61-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:12:9-54
+62        android:supportsRtl="true"
+62-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:13:9-35
+63        android:testOnly="true"
+64        android:theme="@style/Theme.MehdiLibrary" >
+64-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:14:9-50
+65        <activity
+65-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:16:9-24:20
+66            android:name="com.challenge.spinbottle.MainActivity"
+66-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:17:13-65
+67            android:exported="true" >
+67-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:18:13-36
+68            <intent-filter>
+68-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:19:13-23:29
+69                <action android:name="android.intent.action.MAIN" />
+69-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:20:17-69
+69-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:20:25-66
+70
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:22:17-77
+71-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:22:27-74
+72            </intent-filter>
+73        </activity>
+74        <activity
+74-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:25:9-31:20
+75            android:name="com.challenge.spinbottle.MainActivity2"
+75-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:26:13-66
+76            android:exported="false" >
+76-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:27:13-37
+77            <meta-data
+77-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:28:13-30:36
+78                android:name="android.app.lib_name"
+78-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:29:17-52
+79                android:value="" />
+79-->/Users/unity/Music/Lib/GithubLib/app/src/main/AndroidManifest.xml:30:17-33
+80        </activity>
+81
+82        <meta-data
+82-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-19:70
+83            android:name="com.google.android.gms.ads.APPLICATION_ID"
+83-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-69
+84            android:value="ca-app-pub-3940256099942544~3347511713" />
+84-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-67
+85        <meta-data
+85-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-22:118
+86            android:name="applovin.sdk.key"
+86-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-44
+87            android:value="U6a58HtrQVaZ8WxEMtywOeJ62J6JIHCnOntX2kMTEy1MSzbqqTkDC1JELQTdhlP5WGcZ_-1Ew2bM_BBqlv1xxL" />
+87-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-115
+88
+89        <activity
+89-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:9-27:50
+90            android:name="com.ironsource.sdk.controller.ControllerActivity"
+90-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-76
+91            android:configChanges="orientation|screenSize"
+91-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-59
+92            android:hardwareAccelerated="true" />
+92-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-47
+93        <activity
+93-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-32:64
+94            android:name="com.ironsource.sdk.controller.InterstitialActivity"
+94-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-78
+95            android:configChanges="orientation|screenSize"
+95-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-59
+96            android:hardwareAccelerated="true"
+96-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-47
+97            android:theme="@android:style/Theme.Translucent" />
+97-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-61
+98        <activity
+98-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:9-37:64
+99            android:name="com.ironsource.sdk.controller.OpenUrlActivity"
+99-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-73
+100            android:configChanges="orientation|screenSize"
+100-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-59
+101            android:hardwareAccelerated="true"
+101-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-47
+102            android:theme="@android:style/Theme.Translucent" />
+102-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-61
+103
+104        <provider
+104-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:9-41:82
+105            android:name="com.ironsource.lifecycle.IronsourceLifecycleProvider"
+105-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:13-80
+106            android:authorities="com.challenge.spinbottle.IronsourceLifecycleProvider" />
+106-->[:CustomAds] /Users/unity/Music/Lib/GithubLib/CustomAds/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-79
+107
+108        <activity
+108-->[com.applovin.mediation:adcolony-adapter:4.8.0.0] /Users/unity/.gradle/caches/transforms-3/03b8b8b5f7550f467e3f85e28689b159/transformed/adcolony-adapter-4.8.0.0/AndroidManifest.xml:12:9-15:50
+109            android:name="com.adcolony.sdk.AdColonyInterstitialActivity"
+109-->[com.applovin.mediation:adcolony-adapter:4.8.0.0] /Users/unity/.gradle/caches/transforms-3/03b8b8b5f7550f467e3f85e28689b159/transformed/adcolony-adapter-4.8.0.0/AndroidManifest.xml:13:13-73
+110            android:configChanges="keyboardHidden|orientation|screenSize"
+110-->[com.applovin.mediation:adcolony-adapter:4.8.0.0] /Users/unity/.gradle/caches/transforms-3/03b8b8b5f7550f467e3f85e28689b159/transformed/adcolony-adapter-4.8.0.0/AndroidManifest.xml:14:13-74
+111            android:hardwareAccelerated="true" />
+111-->[com.applovin.mediation:adcolony-adapter:4.8.0.0] /Users/unity/.gradle/caches/transforms-3/03b8b8b5f7550f467e3f85e28689b159/transformed/adcolony-adapter-4.8.0.0/AndroidManifest.xml:15:13-47
+112        <activity
+112-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:27:9-30:50
+113            android:name="com.adcolony.sdk.AdColonyAdViewActivity"
+113-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:28:13-67
+114            android:configChanges="keyboardHidden|orientation|screenSize"
+114-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:29:13-74
+115            android:hardwareAccelerated="true" />
+115-->[com.adcolony:sdk:4.8.0] /Users/unity/.gradle/caches/transforms-3/5a080c01b6bb9ace004d23c39fe475c0/transformed/sdk-4.8.0/AndroidManifest.xml:30:13-47
+116
+117        <provider
+117-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:25:9-29:39
+118            android:name="com.applovin.sdk.AppLovinInitProvider"
+118-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:26:13-65
+119            android:authorities="com.challenge.spinbottle.applovininitprovider"
+119-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:27:13-72
+120            android:exported="false"
+120-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:28:13-37
+121            android:initOrder="101" /> <!-- Init order is 101 so we're before Firebase/Google which uses 100 -->
+121-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:29:13-36
+122        <activity
+122-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:31:9-37:50
+123            android:name="com.applovin.adview.AppLovinFullscreenActivity"
+123-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:32:13-74
+124            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+124-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:33:13-139
+125            android:exported="false"
+125-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:34:13-37
+126            android:hardwareAccelerated="true"
+126-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:35:13-47
+127            android:launchMode="singleTop"
+127-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:36:13-43
+128            android:screenOrientation="behind" />
+128-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:37:13-47
+129        <activity
+129-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:38:9-40:142
+130            android:name="com.applovin.sdk.AppLovinWebViewActivity"
+130-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:39:13-68
+131            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" /> <!-- Hybrid Ad Activities -->
+131-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:40:13-139
+132        <activity
+132-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:43:9-45:142
+133            android:name="com.applovin.mediation.hybridAds.MaxHybridMRecAdActivity"
+133-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:44:13-84
+134            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" />
+134-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:45:13-139
+135        <activity
+135-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:46:9-48:142
+136            android:name="com.applovin.mediation.hybridAds.MaxHybridNativeAdActivity"
+136-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:47:13-86
+137            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" /> <!-- Mediation Debugger Activities -->
+137-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:48:13-139
+138        <activity
+138-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:51:9-54:87
+139            android:name="com.applovin.mediation.MaxDebuggerActivity"
+139-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:52:13-70
+140            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+140-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:53:13-139
+141            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+141-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:54:13-84
+142        <activity
+142-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:55:9-58:87
+143            android:name="com.applovin.mediation.MaxDebuggerDetailActivity"
+143-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:56:13-76
+144            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+144-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:57:13-139
+145            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+145-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:58:13-84
+146        <activity
+146-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:59:9-62:87
+147            android:name="com.applovin.mediation.MaxDebuggerMultiAdActivity"
+147-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:60:13-77
+148            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+148-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:61:13-139
+149            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+149-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:62:13-84
+150        <activity
+150-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:63:9-66:87
+151            android:name="com.applovin.mediation.MaxDebuggerAdUnitsListActivity"
+151-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:64:13-81
+152            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+152-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:65:13-139
+153            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+153-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:66:13-84
+154        <activity
+154-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:67:9-70:87
+155            android:name="com.applovin.mediation.MaxDebuggerAdUnitDetailActivity"
+155-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:68:13-82
+156            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+156-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:69:13-139
+157            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+157-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:70:13-84
+158        <activity
+158-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:71:9-74:87
+159            android:name="com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity"
+159-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:72:13-85
+160            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+160-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:73:13-139
+161            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
+161-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:74:13-84
+162        <activity
+162-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:75:9-78:87
+163            android:name="com.applovin.mediation.MaxDebuggerTestModeNetworkActivity"
+163-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:76:13-85
+164            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+164-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:77:13-139
+165            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" /> <!-- Services -->
+165-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:78:13-84
+166        <service
+166-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:81:9-84:44
+167            android:name="com.applovin.impl.sdk.utils.AppKilledService"
+167-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:82:13-72
+168            android:exported="false"
+168-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:83:13-37
+169            android:stopWithTask="false" />
+169-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:84:13-41
+170        <service
+170-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:85:9-88:44
+171            android:name="com.applovin.impl.adview.activity.FullscreenAdService"
+171-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:86:13-81
+172            android:exported="false"
+172-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:87:13-37
+173            android:stopWithTask="false" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+173-->[com.applovin:applovin-sdk:11.5.0] /Users/unity/.gradle/caches/transforms-3/0881b8845f8361ca00aea80bb189b16f/transformed/applovin-sdk-11.5.0/AndroidManifest.xml:88:13-41
+174        <activity
+174-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:49:9-53:64
+175            android:name="com.google.android.gms.ads.AdActivity"
+175-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:50:13-65
+176            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+176-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:51:13-122
+177            android:exported="false"
+177-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:52:13-37
+178            android:theme="@android:style/Theme.Translucent" />
+178-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:53:13-61
+179
+180        <provider
+180-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:55:9-59:39
+181            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+181-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:56:13-76
+182            android:authorities="com.challenge.spinbottle.mobileadsinitprovider"
+182-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:57:13-73
+183            android:exported="false"
+183-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:58:13-37
+184            android:initOrder="100" />
+184-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:59:13-36
+185
+186        <service
+186-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:61:9-64:40
+187            android:name="com.google.android.gms.ads.AdService"
+187-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:62:13-64
+188            android:enabled="true"
+188-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:63:13-35
+189            android:exported="false" />
+189-->[com.google.android.gms:play-services-ads-lite:21.3.0] /Users/unity/.gradle/caches/transforms-3/e74f6046ed433f88ab7dd6e15f111d5e/transformed/play-services-ads-lite-21.3.0/AndroidManifest.xml:64:13-37
+190
+191        <activity
+191-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:19:9-23:75
+192            android:name="com.facebook.ads.AudienceNetworkActivity"
+192-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:20:13-68
+193            android:configChanges="keyboardHidden|orientation|screenSize"
+193-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:21:13-74
+194            android:exported="false"
+194-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:22:13-37
+195            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+195-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:23:13-72
+196
+197        <provider
+197-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:25:9-28:40
+198            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+198-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:26:13-75
+199            android:authorities="com.challenge.spinbottle.AudienceNetworkContentProvider"
+199-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:27:13-82
+200            android:exported="false" />
+200-->[com.facebook.android:audience-network-sdk:6.11.0] /Users/unity/.gradle/caches/transforms-3/5baac832cd22265799c256ac016aebf5/transformed/audience-network-sdk-6.11.0/AndroidManifest.xml:28:13-37
+201
+202        <activity
+202-->[com.google.android.gms:play-services-base:18.0.1] /Users/unity/.gradle/caches/transforms-3/9df4caf478e8a4a3e6e06e7b0287a07e/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+203            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+203-->[com.google.android.gms:play-services-base:18.0.1] /Users/unity/.gradle/caches/transforms-3/9df4caf478e8a4a3e6e06e7b0287a07e/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+204            android:exported="false"
+204-->[com.google.android.gms:play-services-base:18.0.1] /Users/unity/.gradle/caches/transforms-3/9df4caf478e8a4a3e6e06e7b0287a07e/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+205            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+205-->[com.google.android.gms:play-services-base:18.0.1] /Users/unity/.gradle/caches/transforms-3/9df4caf478e8a4a3e6e06e7b0287a07e/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+206
+207        <meta-data
+207-->[com.google.android.gms:play-services-basement:18.1.0] /Users/unity/.gradle/caches/transforms-3/22101baaa08a513511d2fe6a33f29de4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+208            android:name="com.google.android.gms.version"
+208-->[com.google.android.gms:play-services-basement:18.1.0] /Users/unity/.gradle/caches/transforms-3/22101baaa08a513511d2fe6a33f29de4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+209            android:value="@integer/google_play_services_version" />
+209-->[com.google.android.gms:play-services-basement:18.1.0] /Users/unity/.gradle/caches/transforms-3/22101baaa08a513511d2fe6a33f29de4/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+210
+211        <provider
+211-->[androidx.emoji2:emoji2:1.2.0] /Users/unity/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+212            android:name="androidx.startup.InitializationProvider"
+212-->[androidx.emoji2:emoji2:1.2.0] /Users/unity/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+213            android:authorities="com.challenge.spinbottle.androidx-startup"
+213-->[androidx.emoji2:emoji2:1.2.0] /Users/unity/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+214            android:exported="false" >
+214-->[androidx.emoji2:emoji2:1.2.0] /Users/unity/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+215            <meta-data
+215-->[androidx.emoji2:emoji2:1.2.0] /Users/unity/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+216                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+216-->[androidx.emoji2:emoji2:1.2.0] /Users/unity/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+217                android:value="androidx.startup" />
+217-->[androidx.emoji2:emoji2:1.2.0] /Users/unity/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+218            <meta-data
+218-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:36:13-38:52
+219                android:name="androidx.work.WorkManagerInitializer"
+219-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:37:17-68
+220                android:value="androidx.startup" />
+220-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:38:17-49
+221            <meta-data
+221-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/unity/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+222                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+222-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/unity/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+223                android:value="androidx.startup" />
+223-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/unity/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+224        </provider>
+225
+226        <activity
+226-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:19:9-23:74
+227            android:name="com.vungle.warren.ui.VungleActivity"
+227-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:20:13-63
+228            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
+228-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:21:13-113
+229            android:launchMode="singleTop"
+229-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:22:13-43
+230            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+230-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:23:13-71
+231
+232        <provider
+232-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:25:9-28:40
+233            android:name="com.vungle.warren.utility.VungleProvider"
+233-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:26:13-68
+234            android:authorities="com.challenge.spinbottle.vungle-provider"
+234-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:27:13-67
+235            android:exported="false" />
+235-->[com.vungle:publisher-sdk-android:6.12.0] /Users/unity/.gradle/caches/transforms-3/6516aceac3c50f6d90a9c441ac2c185f/transformed/publisher-sdk-android-6.12.0/AndroidManifest.xml:28:13-37
+236
+237        <uses-library
+237-->[androidx.window:window:1.0.0] /Users/unity/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+238            android:name="androidx.window.extensions"
+238-->[androidx.window:window:1.0.0] /Users/unity/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+239            android:required="false" />
+239-->[androidx.window:window:1.0.0] /Users/unity/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+240        <uses-library
+240-->[androidx.window:window:1.0.0] /Users/unity/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+241            android:name="androidx.window.sidecar"
+241-->[androidx.window:window:1.0.0] /Users/unity/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+242            android:required="false" />
+242-->[androidx.window:window:1.0.0] /Users/unity/.gradle/caches/transforms-3/073f10b23065a04cd4c659168bad23fb/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+243
+244        <service
+244-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:41:9-46:35
+245            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+245-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:42:13-88
+246            android:directBootAware="false"
+246-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:43:13-44
+247            android:enabled="@bool/enable_system_alarm_service_default"
+247-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:44:13-72
+248            android:exported="false" />
+248-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:45:13-37
+249        <service
+249-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:47:9-53:35
+250            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+250-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:48:13-84
+251            android:directBootAware="false"
+251-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:49:13-44
+252            android:enabled="@bool/enable_system_job_service_default"
+252-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:50:13-70
+253            android:exported="true"
+253-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:51:13-36
+254            android:permission="android.permission.BIND_JOB_SERVICE" />
+254-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:52:13-69
+255        <service
+255-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:54:9-59:35
+256            android:name="androidx.work.impl.foreground.SystemForegroundService"
+256-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:55:13-81
+257            android:directBootAware="false"
+257-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:56:13-44
+258            android:enabled="@bool/enable_system_foreground_service_default"
+258-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:57:13-77
+259            android:exported="false" />
+259-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:58:13-37
+260
+261        <receiver
+261-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:61:9-66:35
+262            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+262-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:62:13-88
+263            android:directBootAware="false"
+263-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:63:13-44
+264            android:enabled="true"
+264-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:64:13-35
+265            android:exported="false" />
+265-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:65:13-37
+266        <receiver
+266-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:67:9-77:20
+267            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+267-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:68:13-106
+268            android:directBootAware="false"
+268-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:69:13-44
+269            android:enabled="false"
+269-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:70:13-36
+270            android:exported="false" >
+270-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:71:13-37
+271            <intent-filter>
+271-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:73:13-76:29
+272                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+272-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:17-87
+272-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:25-84
+273                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+273-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:17-90
+273-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:25-87
+274            </intent-filter>
+275        </receiver>
+276        <receiver
+276-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:78:9-88:20
+277            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+277-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:79:13-104
+278            android:directBootAware="false"
+278-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:80:13-44
+279            android:enabled="false"
+279-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:81:13-36
+280            android:exported="false" >
+280-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:82:13-37
+281            <intent-filter>
+281-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:84:13-87:29
+282                <action android:name="android.intent.action.BATTERY_OKAY" />
+282-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:17-77
+282-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:25-74
+283                <action android:name="android.intent.action.BATTERY_LOW" />
+283-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:17-76
+283-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:25-73
+284            </intent-filter>
+285        </receiver>
+286        <receiver
+286-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:89:9-99:20
+287            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+287-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:90:13-104
+288            android:directBootAware="false"
+288-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:91:13-44
+289            android:enabled="false"
+289-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:92:13-36
+290            android:exported="false" >
+290-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:93:13-37
+291            <intent-filter>
+291-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:95:13-98:29
+292                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+292-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:17-83
+292-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:25-80
+293                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+293-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:17-82
+293-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:25-79
+294            </intent-filter>
+295        </receiver>
+296        <receiver
+296-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:100:9-109:20
+297            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+297-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:101:13-103
+298            android:directBootAware="false"
+298-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:102:13-44
+299            android:enabled="false"
+299-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:103:13-36
+300            android:exported="false" >
+300-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:104:13-37
+301            <intent-filter>
+301-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:106:13-108:29
+302                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+302-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:17-79
+302-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:25-76
+303            </intent-filter>
+304        </receiver>
+305        <receiver
+305-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:110:9-121:20
+306            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+306-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:111:13-88
+307            android:directBootAware="false"
+307-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:112:13-44
+308            android:enabled="false"
+308-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:113:13-36
+309            android:exported="false" >
+309-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:114:13-37
+310            <intent-filter>
+310-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:116:13-120:29
+311                <action android:name="android.intent.action.BOOT_COMPLETED" />
+311-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:17-79
+311-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:25-76
+312                <action android:name="android.intent.action.TIME_SET" />
+312-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:17-73
+312-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:25-70
+313                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+313-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:17-81
+313-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:25-78
+314            </intent-filter>
+315        </receiver>
+316        <receiver
+316-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:122:9-131:20
+317            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+317-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:123:13-99
+318            android:directBootAware="false"
+318-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:124:13-44
+319            android:enabled="@bool/enable_system_alarm_service_default"
+319-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:125:13-72
+320            android:exported="false" >
+320-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:126:13-37
+321            <intent-filter>
+321-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:128:13-130:29
+322                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+322-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:17-98
+322-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:25-95
+323            </intent-filter>
+324        </receiver>
+325        <receiver
+325-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:132:9-142:20
+326            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+326-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:133:13-78
+327            android:directBootAware="false"
+327-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:134:13-44
+328            android:enabled="true"
+328-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:135:13-35
+329            android:exported="true"
+329-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:136:13-36
+330            android:permission="android.permission.DUMP" >
+330-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:137:13-57
+331            <intent-filter>
+331-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:139:13-141:29
+332                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+332-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:17-88
+332-->[androidx.work:work-runtime:2.7.0] /Users/unity/.gradle/caches/transforms-3/436690cab09151ab62f470aa3fa5cd00/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:25-85
+333            </intent-filter>
+334        </receiver>
+335
+336        <service
+336-->[androidx.room:room-runtime:2.2.5] /Users/unity/.gradle/caches/transforms-3/c747649833e5d992ced321f763124585/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+337            android:name="androidx.room.MultiInstanceInvalidationService"
+337-->[androidx.room:room-runtime:2.2.5] /Users/unity/.gradle/caches/transforms-3/c747649833e5d992ced321f763124585/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+338            android:directBootAware="true"
+338-->[androidx.room:room-runtime:2.2.5] /Users/unity/.gradle/caches/transforms-3/c747649833e5d992ced321f763124585/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+339            android:exported="false" />
+339-->[androidx.room:room-runtime:2.2.5] /Users/unity/.gradle/caches/transforms-3/c747649833e5d992ced321f763124585/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+340
+341        <activity
+341-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:14:9-18:74
+342            android:name="com.unity3d.services.ads.adunit.AdUnitActivity"
+342-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:15:13-74
+343            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+343-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:16:13-170
+344            android:hardwareAccelerated="true"
+344-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:17:13-47
+345            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+345-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:18:13-71
+346        <activity
+346-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:19:9-23:86
+347            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentActivity"
+347-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:20:13-85
+348            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+348-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:21:13-170
+349            android:hardwareAccelerated="true"
+349-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:22:13-47
+350            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+350-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:23:13-83
+351        <activity
+351-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:24:9-28:86
+352            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+352-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:25:13-93
+353            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+353-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:26:13-170
+354            android:hardwareAccelerated="false"
+354-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:27:13-48
+355            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+355-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:28:13-83
+356        <activity
+356-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:29:9-33:74
+357            android:name="com.unity3d.services.ads.adunit.AdUnitSoftwareActivity"
+357-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:30:13-82
+358            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+358-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:31:13-170
+359            android:hardwareAccelerated="false"
+359-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:32:13-48
+360            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+360-->[com.unity3d.ads:unity-ads:4.3.0] /Users/unity/.gradle/caches/transforms-3/39fab630bad01847ad49dcd01eb81c9f/transformed/unity-ads-4.3.0/AndroidManifest.xml:33:13-71
+361    </application>
+362
+363</manifest>

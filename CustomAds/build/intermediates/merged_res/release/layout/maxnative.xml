@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/topln"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                android:id="@+id/icon_image_view"
+                android:layout_width="50dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_height="50dp"/>
+            <LinearLayout
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:id="@+id/ad_options_view"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+            <TextView
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toStartOf="@id/ad_options_view"
+                app:layout_constraintStart_toEndOf="@id/icon_image_view"
+                android:id="@+id/title_text_view"
+                android:ellipsize="end"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:text="knskjbnkcnkj"
+                android:elevation="10dp"
+                android:textColor="@color/black"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:maxLines="2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content" />
+            <LinearLayout
+                android:id="@+id/Ln"
+                app:layout_constraintTop_toBottomOf="@id/title_text_view"
+                app:layout_constraintEnd_toStartOf="@id/ad_options_view"
+                app:layout_constraintStart_toEndOf="@id/icon_image_view"
+                android:orientation="horizontal"
+                android:layout_width="0dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:text="Ad"
+                    android:padding="2dp"
+                    android:textSize="10sp"
+                    android:textColor="@color/white"
+                    android:background="@color/ad_holder"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:textColor="@color/black"
+                    android:id="@+id/advertiser_textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </LinearLayout>
+
+
+    <TextView
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/media_view_container"
+        android:id="@+id/body_text_view"
+     android:layout_width="0dp"
+        android:textColor="@color/black"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:text="thidjnjkcbjckjbslkcn"
+    android:layout_height="wrap_content" />
+    <FrameLayout
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/topln"
+        android:id="@+id/media_view_container"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+     android:layout_width="match_parent"
+    android:layout_height="160dp" />
+    <Button
+        app:layout_constraintTop_toBottomOf="@id/body_text_view"
+        android:id="@+id/cta_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+     android:layout_width="0dp"
+        android:text="thisjij"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn"
+        android:layout_marginBottom="10dp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+    android:layout_height="wrap_content" />
+</androidx.constraintlayout.widget.ConstraintLayout>

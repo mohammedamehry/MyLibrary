@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable-tr-xxhdpi-v4/yandex_instream_internal_click_button.png",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable-tr-xxhdpi-v4/yandex_instream_internal_click_button.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable-tr-xxhdpi-v4/yandex_instream_internal_skip.png",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable-tr-xxhdpi-v4/yandex_instream_internal_skip.png"
+    }
+]

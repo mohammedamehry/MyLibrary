@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yandex.mobile.ads.video.playback.view.VideoAdControlsContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_height="300dp">
+
+    <ImageView
+        android:id="@+id/instream_advertiser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="@dimen/yandex_instream_internal_label_margin_start"
+        android:layout_marginLeft="@dimen/yandex_instream_internal_label_margin_start"
+        android:layout_marginTop="@dimen/yandex_instream_internal_label_margin_top"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_marginStart="@dimen/yandex_instream_internal_button_margin_start"
+        android:layout_marginLeft="@dimen/yandex_instream_internal_button_margin_start"
+        android:layout_marginBottom="@dimen/yandex_instream_internal_button_margin_bottom">
+
+        <com.yandex.mobile.ads.instream.view.InstreamMuteView
+            android:id="@+id/instream_mute"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="@dimen/yandex_instream_internal_button_size"
+            android:layout_height="@dimen/yandex_instream_internal_button_size"
+            android:layout_gravity="center"
+            android:background="@drawable/yandex_ads_internal_ic_sound_off_default"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/instream_call_to_action"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/yandex_instream_internal_button_size"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/yandex_instream_internal_button_margin_start"
+            android:layout_marginLeft="@dimen/yandex_instream_internal_button_margin_start"
+            android:background="@drawable/yandex_instream_internal_click_button"
+            tools:ignore="ContentDescription" />
+
+    </LinearLayout>
+
+
+    <ProgressBar
+        android:id="@+id/instream_progress_display_view"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/yandex_instream_internal_progress_bar_height"
+        android:layout_gravity="bottom"
+        android:max="@integer/yandex_instream_internal_progress_bar_max"
+        android:progressDrawable="@drawable/yandex_instream_internal_progress_display" />
+
+    <ImageView
+        android:id="@+id/instream_skip"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/yandex_instream_internal_button_size"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="@dimen/yandex_instream_internal_button_margin_end"
+        android:layout_marginRight="@dimen/yandex_instream_internal_button_margin_end"
+        android:layout_marginBottom="@dimen/yandex_instream_internal_button_margin_bottom"
+        android:background="@drawable/yandex_instream_internal_skip"
+        android:visibility="gone"
+        tools:ignore="ContentDescription"
+        tools:visibility="visible" />
+
+</com.yandex.mobile.ads.video.playback.view.VideoAdControlsContainer>

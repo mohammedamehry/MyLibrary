@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "com.proads.customads.CustomAds-fragment-1.3.6-8:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    }
+]

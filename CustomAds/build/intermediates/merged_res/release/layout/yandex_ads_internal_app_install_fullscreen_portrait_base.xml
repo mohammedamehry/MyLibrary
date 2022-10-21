@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<com.yandex.mobile.ads.nativeads.NativeAdView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:background="@android:color/holo_green_light">
+
+            <com.yandex.mobile.ads.nativeads.MediaView
+                android:id="@+id/media"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:foreground="@color/yandex_ads_internal_app_install_media_view_foreground"
+                android:visibility="gone"
+                app:yandex_video_controls_layout="@layout/yandex_ads_internal_outstream_controls_app_install"
+                tools:layout_height="200dp"
+                tools:visibility="visible" />
+
+            <include layout="@layout/yandex_app_internal_app_install_controls_light" />
+
+        </FrameLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="@dimen/yandex_ads_internal_app_install_info_container_margin"
+            android:layout_marginBottom="@dimen/yandex_ads_internal_app_install_call_to_action_bottom_margin_base"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            tools:background="#ff9900cc">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@id/call_to_action"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/text_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <com.yandex.mobile.ads.fullscreen.template.view.RoundImageView
+                        android:id="@+id/icon"
+                        android:layout_width="@dimen/yandex_ads_internal_app_install_icon_size_base"
+                        android:layout_height="@dimen/yandex_ads_internal_app_install_icon_size_base"
+                        android:layout_gravity="center"
+                        android:adjustViewBounds="true"
+                        android:scaleType="centerCrop"
+                        android:visibility="gone"
+                        app:yandex_corner_radius="@dimen/yandex_ads_internal_app_install_icon_radius_base"
+                        tools:background="@color/yandex_ads_internal_call_to_action_background_color_blue"
+                        tools:visibility="visible" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/yandex_ads_internal_app_install_title_margin_top"
+                            android:ellipsize="end"
+                            android:gravity="center_horizontal"
+                            android:maxHeight="@dimen/yandex_ads_internal_app_install_title_height_base"
+                            android:maxLines="3"
+                            android:textColor="@android:color/black"
+                            android:textSize="24dp"
+                            android:textStyle="bold"
+                            android:visibility="gone"
+                            tools:text="@string/yandex_ads_internal_tools_title_text"
+                            tools:visibility="visible" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:gravity="center_vertical"
+                            android:layout_marginTop="@dimen/yandex_ads_internal_app_install_rating_margin_top"
+                            android:layout_marginBottom="@dimen/yandex_ads_internal_app_install_rating_margin_top"
+                            android:maxHeight="@dimen/yandex_ads_internal_app_install_rating_height"
+                            android:orientation="horizontal">
+
+                            <include layout="@layout/yandex_ads_internal_app_install_rating" />
+
+                            <TextView
+                                android:id="@+id/sponsored"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="8dp"
+                                android:textColor="@color/yandex_ads_internal_domain_grey_text_color"
+                                android:textSize="@dimen/yandex_ads_internal_appinstall_sponsored_text_size"
+                                android:visibility="gone"
+                                tools:text="@string/yandex_ads_internal_tools_sponsored_text"
+                                tools:visibility="visible" />
+
+                            <TextView
+                                android:id="@+id/age"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/yandex_ads_internal_domain_grey_text_color"
+                                android:textSize="@dimen/yandex_ads_internal_appinstall_age_text_size"
+                                android:visibility="gone"
+                                tools:text="@string/yandex_ads_internal_tools_age_text"
+                                tools:visibility="visible" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <com.yandex.mobile.ads.fullscreen.template.view.CroppedTextView
+                    android:id="@+id/body"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/yandex_ads_internal_app_install_body_margin_top"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:maxHeight="@dimen/yandex_ads_internal_app_install_body_height"
+                    android:maxLines="3"
+                    android:textColor="@color/yandex_ads_internal_grey_text_color"
+                    android:textSize="@dimen/yandex_ads_internal_appinstall_body_text_size"
+                    android:visibility="gone"
+                    tools:text="@string/yandex_ads_internal_tools_body_text"
+                    tools:visibility="visible" />
+
+            </LinearLayout>
+
+            <com.yandex.mobile.ads.fullscreen.template.view.CallToActionView
+                android:id="@+id/call_to_action"
+                style="@style/YandexAdsInternal.CallToAction"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/yandex_ads_internal_app_install_call_to_action_height"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/yandex_ads_internal_app_install_call_to_action_top_margin_base"
+                android:background="@drawable/yandex_ads_internal_call_to_action_green_solid_background"
+                android:text="@string/yandex_ads_internal_tools_app_install_call_to_action_text_large"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/yandex_ads_internal_appinstall_call_to_action_text_size"
+                android:visibility="gone"
+                app:yandex_icon="@drawable/yandex_ads_internal_google_play_icon_white"
+                app:yandex_icon_offset="@dimen/yandex_ads_internal_call_to_action_icon_offset"
+                app:yandex_icon_size="@dimen/yandex_ads_internal_call_to_action_icon_size"
+                tools:visibility="visible" />
+
+        </RelativeLayout>
+
+        <include layout="@layout/yandex_ads_internal_app_install_warning" />
+
+    </LinearLayout>
+
+</com.yandex.mobile.ads.nativeads.NativeAdView>

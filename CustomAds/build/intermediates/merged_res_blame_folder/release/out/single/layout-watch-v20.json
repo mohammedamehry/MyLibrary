@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

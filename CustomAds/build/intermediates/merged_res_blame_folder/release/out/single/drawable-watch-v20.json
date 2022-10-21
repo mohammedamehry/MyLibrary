@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "com.proads.customads.CustomAds-play-services-auth-20.2.0-35:/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "com.proads.customads.CustomAds-play-services-auth-20.2.0-35:/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "com.proads.customads.CustomAds-play-services-auth-20.2.0-35:/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable-watch-v20/abc_dialog_material_background.xml"
+    }
+]

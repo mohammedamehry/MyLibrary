@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ad_holder">#FFC107</color>
+    <color name="black">#000000</color>
+    <color name="tint">#5679e3</color>
+    <color name="white">#ffffff</color>
+    <dimen name="banner_height">50dp</dimen>
+</resources>

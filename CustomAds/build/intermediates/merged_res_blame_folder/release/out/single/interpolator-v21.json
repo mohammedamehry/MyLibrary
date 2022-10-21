@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    }
+]

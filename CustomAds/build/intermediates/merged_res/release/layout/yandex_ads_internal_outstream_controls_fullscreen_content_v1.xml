@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<com.yandex.mobile.ads.nativeads.video.view.PlaybackControlsContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/video_mute_control"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom|top"
+        android:background="@drawable/yandex_ads_internal_mute_checkable_fullscreen_content_v1"
+        android:button="@null" />
+
+    <TextView
+        android:id="@+id/video_count_down_control"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|top"
+        android:layout_marginRight="4dp"
+        android:layout_marginTop="4dp"
+        android:padding="8dp"
+        android:shadowColor="#000000"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="8"
+        android:textColor="@color/yandex_ads_internal_text_color_white"
+        android:textSize="12sp"
+        tools:text="00:28" />
+
+</com.yandex.mobile.ads.nativeads.video.view.PlaybackControlsContainer>

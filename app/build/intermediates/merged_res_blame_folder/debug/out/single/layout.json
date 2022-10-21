@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.guide.mehdilibrary.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.guide.mehdilibrary.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.guide.mehdilibrary.app-mergeDebugResources-51:/layout/activity_main2.xml",
+        "source": "com.guide.mehdilibrary.app-main-54:/layout/activity_main2.xml"
+    }
+]

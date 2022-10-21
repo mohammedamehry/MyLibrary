@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.proads.customads" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="24"
+7-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:4:5-67
+10-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:4:22-64
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:5:5-76
+11-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:5:22-73
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+13-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:7:5-78
+13-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:8:5-74
+14-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:8:22-72
+15
+16    <application>
+16-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:10:5-33:19
+17        <meta-data
+17-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:11:9-13:69
+18            android:name="com.google.android.gms.ads.APPLICATION_ID"
+18-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:12:13-69
+19            android:value="ca-app-pub-3940256099942544~3347511713" />
+19-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:13:13-67
+20        <meta-data
+20-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:14:9-15:117
+21            android:name="applovin.sdk.key"
+21-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:14:20-51
+22            android:value="U6a58HtrQVaZ8WxEMtywOeJ62J6JIHCnOntX2kMTEy1MSzbqqTkDC1JELQTdhlP5WGcZ_-1Ew2bM_BBqlv1xxL" />
+22-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:15:13-115
+23
+24        <activity
+24-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:16:9-19:50
+25            android:name="com.ironsource.sdk.controller.ControllerActivity"
+25-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:17:13-76
+26            android:configChanges="orientation|screenSize"
+26-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:18:13-59
+27            android:hardwareAccelerated="true" />
+27-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:19:13-47
+28        <activity
+28-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:20:9-24:64
+29            android:name="com.ironsource.sdk.controller.InterstitialActivity"
+29-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:21:13-78
+30            android:configChanges="orientation|screenSize"
+30-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:22:13-59
+31            android:hardwareAccelerated="true"
+31-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:23:13-47
+32            android:theme="@android:style/Theme.Translucent" />
+32-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:24:13-61
+33        <activity
+33-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:25:9-29:64
+34            android:name="com.ironsource.sdk.controller.OpenUrlActivity"
+34-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:26:13-73
+35            android:configChanges="orientation|screenSize"
+35-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:27:13-59
+36            android:hardwareAccelerated="true"
+36-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:28:13-47
+37            android:theme="@android:style/Theme.Translucent" />
+37-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:29:13-61
+38
+39        <provider
+39-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:30:9-32:83
+40            android:name="com.ironsource.lifecycle.IronsourceLifecycleProvider"
+40-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:32:13-80
+41            android:authorities="${applicationId}.IronsourceLifecycleProvider" />
+41-->/Users/unity/Music/Lib/GithubLib/CustomAds/src/main/AndroidManifest.xml:31:13-79
+42    </application>
+43
+44</manifest>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/adtune_background_view"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <com.yandex.mobile.ads.fullscreen.template.view.ExtendedViewContainer
+        android:id="@+id/adtune_content_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="13" />
+
+                <FrameLayout
+                    android:id="@+id/adtune_drag_view_container"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:paddingLeft="20dp"
+                    android:paddingTop="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingBottom="8dp">
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="4dp"
+                        android:background="@drawable/yandex_ads_internal_adtune_control_shape_white" />
+
+                </FrameLayout>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="13" />
+
+            </LinearLayout>
+
+            <com.yandex.mobile.ads.fullscreen.template.view.ExtendedViewContainer
+                android:id="@+id/adtune_webview_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/yandex_ads_internal_adtune_webview_container_shape_white"
+                app:yandex_top_left_corner_radius="@dimen/yandex_ads_internal_adtune_corner_radius"
+                app:yandex_top_right_corner_radius="@dimen/yandex_ads_internal_adtune_corner_radius" />
+
+        </LinearLayout>
+
+    </com.yandex.mobile.ads.fullscreen.template.view.ExtendedViewContainer>
+
+</FrameLayout>

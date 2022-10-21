@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

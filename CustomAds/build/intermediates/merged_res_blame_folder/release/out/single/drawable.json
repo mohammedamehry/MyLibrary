@@ -1,0 +1,770 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_adtune_webview_container_shape_white.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_adtune_webview_container_shape_white.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_btn_radio_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mute_to_unmute.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mute_to_unmute.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_text_cursor_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_vector_test.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-resources-1.5.1-37:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_tapjoy.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_tapjoy.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_rounded_text_view_border.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_rounded_text_view_border.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/div_gallery_item_border.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/div_gallery_item_border.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_mute_checkable_default.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_mute_checkable_default.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_facebook.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_facebook.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/avd_hide_password.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/navigation_empty_icon.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_applovin.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_applovin.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_fyber.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_fyber.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_circle_progress_bar.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_circle_progress_bar.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/notification_tile_bg.xml",
+        "source": "com.proads.customads.CustomAds-core-1.8.0-30:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ratingbar_small_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/m3_tabs_rounded_line_indicator.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/m3_tabs_rounded_line_indicator.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_rewarded_close_verification_button_dismiss_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_rewarded_close_verification_button_dismiss_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/button_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/material_ic_menu_arrow_down_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/div_button_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/div_button_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/tooltip_frame_light.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_tiktok.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_tiktok.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/mtrl_popupmenu_background.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_inmobi.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_inmobi.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/notification_bg_low.xml",
+        "source": "com.proads.customads.CustomAds-core-1.8.0-30:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_clear_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_mute_checkable_app_install.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_mute_checkable_app_install.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_menu_share_mtrl_alpha.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_rewarded_close_with_padding.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_rewarded_close_with_padding.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_rewarded_close_verification_button_close_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_rewarded_close_verification_button_close_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_star_half_black_48dp.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_star_half_black_48dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_fullscreen_content_v1_close_selector.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_fullscreen_content_v1_close_selector.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/test_custom_background.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/test_custom_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_text_light.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_verizon.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_verizon.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_adtune_control_shape_white.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_adtune_control_shape_white.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_rewarded_close_verification_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_rewarded_close_verification_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_ab_back_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_adtune_white_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_adtune_white_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_star_half_black.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_star_half_black.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_white_small.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_white_small.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_sponsored_container_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_sponsored_container_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_privacy_icon.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_privacy_icon.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_item_background_holo_dark.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_video_progress_bar_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_video_progress_bar_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/material_ic_calendar_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/material_ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_keyboard_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/error_counter_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/error_counter_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/notification_bg.xml",
+        "source": "com.proads.customads.CustomAds-core-1.8.0-30:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/exo_icon_vr.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/exo_icon_vr.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_list_selector_holo_light.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_fullscreen_content_v1_background_tile_dark.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_fullscreen_content_v1_background_tile_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/mtrl_dialog_background.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/mtrl_ic_arrow_drop_down.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/design_snackbar_background.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_m3_chip_close.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_m3_chip_close.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_ironsource.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_ironsource.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/exo_rounded_rectangle.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/exo_rounded_rectangle.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_call_to_action_background_shape_blue.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_call_to_action_background_shape_blue.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_controls_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_controls_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/material_ic_clear_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/avd_show_password.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_textfield_search_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_btn_check_material_anim.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_amazon_tam.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_amazon_tam.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_item_background_holo_light.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/native_animation_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/native_animation_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_star_black.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_star_black.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/design_ic_visibility_off.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_unmute_to_mute.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_unmute_to_mute.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_rounded_button.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_rounded_button.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/m3_tabs_line_indicator.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/m3_tabs_line_indicator.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_call_to_action_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_call_to_action_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_bidmachine.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_bidmachine.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/notification_icon_background.xml",
+        "source": "com.proads.customads.CustomAds-core-1.8.0-30:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_fullscreen_content_v1_icon_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_fullscreen_content_v1_icon_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_rating_bar.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_rating_bar.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_nend.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_nend.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_unity.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_unity.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_icon_grey_solid_background_small_corners.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_icon_grey_solid_background_small_corners.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_chartboost.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_chartboost.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_pangle.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_pangle.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/mtrl_ic_arrow_drop_up.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/tabs_default_indicator.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/tabs_default_indicator.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_maio.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_maio.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/update.gif",
+        "source": "com.proads.customads.CustomAds-main-46:/drawable/update.gif"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/tooltip_frame_dark.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/exo_icon_circular_play.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/exo_icon_circular_play.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/design_ic_visibility.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_progress_view_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_progress_view_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_verve.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_verve.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_mute_checkable_fullscreen_content_v1.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_mute_checkable_fullscreen_content_v1.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_mtrl_checked_circle.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_rewarded_feedback_with_padding.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_rewarded_feedback_with_padding.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_criteo.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_criteo.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/mtrl_ic_error.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/admob_close_button_black_circle_white_cross.xml",
+        "source": "com.proads.customads.CustomAds-play-services-ads-21.3.0-32:/drawable/admob_close_button_black_circle_white_cross.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_call_to_action_green_solid_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_call_to_action_green_solid_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_smaato.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_smaato.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_icon_grey_solid_background_large_corners.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_icon_grey_solid_background_large_corners.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn_radio_off_mtrl.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/test_level_drawable.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/test_level_drawable.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_call_to_action_gradient_yellow_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_call_to_action_gradient_yellow_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_m3_chip_checked_circle.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_m3_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_adcolony.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_adcolony.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ratingbar_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_reward_timer_view_shape_gray.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_reward_timer_view_shape_gray.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/mtrl_dropdown_arrow.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_tab_indicator_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_yandex.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_yandex.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_mintegral.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_mintegral.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_call_to_action_blue_stroke_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_call_to_action_blue_stroke_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_btn_check_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_mopub.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_mopub.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_google_ad_manager.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_google_ad_manager.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_search_api_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/material_ic_edit_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/material_ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_line.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_line.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_m3_chip_check.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_m3_chip_check.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_star_black_48dp.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_ogury_presage.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_ogury_presage.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/ic_clock_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/ic_clock_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "com.proads.customads.CustomAds-play-services-base-18.0.1-40:/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_switch_thumb_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/admob_close_button_white_circle_black_cross.xml",
+        "source": "com.proads.customads.CustomAds-play-services-ads-21.3.0-32:/drawable/admob_close_button_white_circle_black_cross.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_cab_background_top_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_call_to_action_blue_solid_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_call_to_action_blue_solid_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_vungle.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_vungle.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn.xml",
+        "source": "com.proads.customads.CustomAds-main-46:/drawable/btn.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_amazon_marketplace.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_amazon_marketplace.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_instream_internal_progress_display.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_instream_internal_progress_display.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_admob.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_admob.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_app_install_circle_for_dark_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_app_install_circle_for_dark_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/design_password_eye.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/design_fab_background.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_privacy_icon_layered_list.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_privacy_icon_layered_list.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_app_install_circle_for_light_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_app_install_circle_for_light_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_rewarded_close_shape_gray.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_rewarded_close_shape_gray.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn_radio_on_mtrl.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_snap.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_snap.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/material_ic_menu_arrow_up_black_24dp.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/material_ic_menu_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_seekbar_track_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/yandex_ads_internal_rewarded_timer_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/drawable/yandex_ads_internal_rewarded_timer_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/mtrl_ic_cancel.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_hyprmx.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_hyprmx.png"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_placeholder.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_placeholder.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/abc_btn_borderless_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/drawable/applovin_ic_mediation_mytarget.png",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/drawable/applovin_ic_mediation_mytarget.png"
+    }
+]

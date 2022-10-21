@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ This file is a part of the Yandex Advertising Network
+  ~
+  ~ Version for Android (C) 2022 YANDEX
+  ~
+  ~ You may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at https://legal.yandex.com/partner_ch/
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/progress">
+        <rotate
+            android:fromDegrees="270"
+            android:toDegrees="270">
+            <shape
+                android:shape="ring"
+                android:useLevel="true">
+                <corners android:radius="6dp" />
+                <rotate
+                    android:fromDegrees="0"
+                    android:toDegrees="360" />
+                <solid android:color="@color/yandex_ads_internal_text_color_white" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

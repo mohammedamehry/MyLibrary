@@ -1,0 +1,750 @@
+[
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_header_fullscreen.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_header_fullscreen.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_fullscreen_portrait_base.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_fullscreen_portrait_base.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_navigation_item.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_search_view.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mediation_debugger_ad_unit_detail_activity.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/mediation_debugger_ad_unit_detail_activity.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_leader_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_leader_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_month_navigation.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_month_navigation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_fullscreen_landscape_base.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_fullscreen_landscape_base.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_clock_display_divider.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_clock_display_divider.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_timepicker_textinput_display.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_timepicker_textinput_display.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_timepicker.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_timepicker.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/browser_actions_context_menu_page.xml",
+        "source": "com.proads.customads.CustomAds-browser-1.4.0-1:/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_fullscreen_landscape_second_degradation.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_fullscreen_landscape_second_degradation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_textinput_timepicker.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_textinput_timepicker.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_month.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_layout_snackbar_include.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_text_input_date_range.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_text_input_date_range.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_call_to_action.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_call_to_action.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_text_input_date.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_text_input_date.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_fullscreen_portrait_third_degradation.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_fullscreen_portrait_third_degradation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_screen_content_include.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_select_dialog_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/notification_template_part_chronometer.xml",
+        "source": "com.proads.customads.CustomAds-core-1.8.0-30:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_banner_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_banner_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/select_dialog_item_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_toolbar_custom_background.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_toolbar_custom_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_rewarded_portrait.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_rewarded_portrait.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_portrait_warning.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_portrait_warning.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mediation_debugger_list_section_centered.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/mediation_debugger_list_section_centered.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_navigation_item_header.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/m3_alert_dialog_title.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/m3_alert_dialog_title.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/applovin_native_ad_media_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/applovin_native_ad_media_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_interstitial_content.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_interstitial_content.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_warning.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_warning.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_text_input_start_icon.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_chip_input_combo.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_chip_input_combo.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_navigation_item_separator.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_interstitial_landscape_horizontal_media.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_interstitial_landscape_horizontal_media.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_styled_player_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_styled_player_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_fullscreen_portrait_second_degradation.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_fullscreen_portrait_second_degradation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/text_view_with_line_height_from_style.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/text_view_with_line_height_from_style.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_list_divider.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_list_divider.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_styled_player_control_rewind_button.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_styled_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_alert_dialog_actions.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_clock_display.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_clock_display.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_mrec_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_mrec_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_clockface_textview.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_clockface_textview.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_track_selection_dialog.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_layout_snackbar.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_divkit.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_divkit.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_vertical.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_vertical.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_interstitial_close.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_interstitial_close.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_navigation_item_subheader.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_radial_view_group.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_radial_view_group.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_timepicker_dialog.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_timepicker_dialog.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_action_bar_title_item.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_interstitial_landscape_sponsored_container.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_interstitial_landscape_sponsored_container.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_toolbar_elevation.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_toolbar_elevation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_toolbar.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_toolbar.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_clock_period_toggle.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_clock_period_toggle.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mediation_debugger_list_section.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/mediation_debugger_list_section.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_alert_dialog_title_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_medium_template_1.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_medium_template_1.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_styled_settings_list.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_styled_settings_list.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_header_title_text.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_header_title_text.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_chip_zero_corner_radius.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_chip_zero_corner_radius.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/admobnative.xml",
+        "source": "com.proads.customads.CustomAds-main-46:/layout/admobnative.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_banner_icon_and_text_layout.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_banner_icon_and_text_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_design_checkbox.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_design_checkbox.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/text_view_with_line_height_from_layout.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/text_view_with_line_height_from_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/maxnative.xml",
+        "source": "com.proads.customads.CustomAds-main-46:/layout/maxnative.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_alert_select_dialog_multichoice.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_alert_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_media_banner_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_media_banner_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_landscape_warning.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_landscape_warning.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_day_of_week.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_day_of_week.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_app_internal_app_install_controls_dark.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_app_internal_app_install_controls_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_dialog_title_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_fullscreen_portrait_first_degradation.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_fullscreen_portrait_first_degradation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_action_chip.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_action_chip.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_landscape_with_media.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_landscape_with_media.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_player_control_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_player_control_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_recycler_view_item.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_recycler_view_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_rewarded_landscape.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_rewarded_landscape.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_rewarded_controls.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_rewarded_controls.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_landscape_without_media.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_landscape_without_media.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_toolbar_surface.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_toolbar_surface.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_actions.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_actions.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_bottom_sheet_dialog.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_days_of_week.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_days_of_week.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_styled_sub_settings_list_item.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_styled_sub_settings_list_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_hybrid_native_ad_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_hybrid_native_ad_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_navigation_rail_item.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_navigation_rail_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_screen_toolbar.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_alert_select_dialog_item.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_alert_select_dialog_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_bottom_navigation_item.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_action_mode_bar.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_header_toggle.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_header_toggle.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/card_app.xml",
+        "source": "com.proads.customads.CustomAds-main-46:/layout/card_app.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/text_view_without_line_height.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/text_view_without_line_height.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_alert_dialog_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_portrait.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_portrait.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_auto_complete_simple_item.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_auto_complete_simple_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_interstitial_landscape_vetrical_media.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_interstitial_landscape_vetrical_media.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_styled_player_control_ffwd_button.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_styled_player_control_ffwd_button.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/browser_actions_context_menu_row.xml",
+        "source": "com.proads.customads.CustomAds-browser-1.4.0-1:/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_alert_dialog.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_alert_dialog.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_alert_select_dialog_singlechoice.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_alert_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_multibanner_controls.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_multibanner_controls.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_tooltip.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_exposed_dropdown_menu.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_exposed_dropdown_menu.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_fullscreen.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_fullscreen.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_month_labeled.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_month_labeled.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_design_radiobutton.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_design_radiobutton.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_adtune_container.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_adtune_container.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_header_dark.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_header_dark.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_layout_tab_text.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_action_bar_up_container.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_vertical_leader_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_vertical_leader_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_text_assets.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_text_assets.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/updatedialog.xml",
+        "source": "com.proads.customads.CustomAds-main-46:/layout/updatedialog.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/text_view_with_theme_line_height.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/text_view_with_theme_line_height.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_layout_snackbar_include.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_text_input_end_icon.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/m3_auto_complete_simple_item.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/m3_auto_complete_simple_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/m3_alert_dialog.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/m3_alert_dialog.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_player_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_player_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_outstream_controls_app_install.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_outstream_controls_app_install.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_fullscreen_content_v1_tile_background.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_fullscreen_content_v1_tile_background.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mediation_debugger_list_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/mediation_debugger_list_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_rating.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_rating.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_vertical_banner_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_vertical_banner_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_app_internal_app_install_controls_light.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_app_internal_app_install_controls_light.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_navigation_bar_item_layout.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_navigation_bar_item_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_instream_controls_skin.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_instream_controls_skin.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_rewarded_close_verification.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_rewarded_close_verification.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/text_view_with_line_height_from_appearance.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/text_view_with_line_height_from_appearance.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_layout_snackbar.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_horizontal.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_horizontal.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mediation_debugger_multi_ad_activity.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/mediation_debugger_multi_ad_activity.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_outstream_controls_fullscreen_content_v1.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_outstream_controls_fullscreen_content_v1.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_months.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_months.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_time_chip.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_time_chip.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_header_selection_text.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_header_selection_text.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_clockface_view.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_clockface_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_navigation_menu_item.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/custom_dialog.xml",
+        "source": "com.proads.customads.CustomAds-core-1.8.0-30:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_layout_tab_icon.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_small_template_1.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_small_template_1.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_action_menu_layout.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/material_time_input.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/material_time_input.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_native_interstitial_portrait.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_native_interstitial_portrait.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_alert_dialog_title.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_alert_dialog_title.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_year.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_styled_player_control_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_styled_player_control_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mediation_debugger_list_item_detail.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/mediation_debugger_list_item_detail.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_header_dialog.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_menu_item_action_area.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_app_install_fullscreen_landscape_first_degradation.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_app_install_fullscreen_landscape_first_degradation.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mediation_debugger_list_item_right_detail.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/mediation_debugger_list_item_right_detail.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/notification_template_part_time.xml",
+        "source": "com.proads.customads.CustomAds-core-1.8.0-30:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_calendar_day.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_calendar_day.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_screen_simple.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/max_native_ad_vertical_media_banner_view.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/max_native_ad_vertical_media_banner_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/abc_activity_chooser_view.xml",
+        "source": "com.proads.customads.CustomAds-appcompat-1.5.1-14:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/test_reflow_chipgroup.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/test_reflow_chipgroup.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/yandex_ads_internal_outstream_controls_default.xml",
+        "source": "com.proads.customads.CustomAds-mobileads-5.3.0-36:/layout/yandex_ads_internal_outstream_controls_default.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/exo_styled_settings_list_item.xml",
+        "source": "com.proads.customads.CustomAds-applovin-sdk-11.5.0-12:/layout/exo_styled_settings_list_item.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/m3_alert_dialog_actions.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/m3_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/design_navigation_menu.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "com.proads.customads.CustomAds-merged_res-45:/layout/mtrl_picker_dialog.xml",
+        "source": "com.proads.customads.CustomAds-material-1.6.1-28:/layout/mtrl_picker_dialog.xml"
+    }
+]
